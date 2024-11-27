@@ -7,3 +7,7 @@ data/X_test.pkl
 *.pkl
 /.ipynb_checkpoints
 /.ipynb_checkpoints
+*.vec
+cc.de.300.vec.gz
+*.ipynb
+/data
