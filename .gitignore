@@ -11,3 +11,5 @@ data/X_test.pkl
 cc.de.300.vec.gz
 *.ipynb
 /data
+fasttext-0.9.2-cp311-cp311-win_amd64.whl
+/fast-text-embeddings
