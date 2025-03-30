@@ -30,20 +30,24 @@ This repository holds the source code for the following
 
 
 
-## Structure of the Repository
-
-<pre>
-
-
-</pre>
-
-
 ## Contact
 In case you have any questions or inquiries, feel free to send an email to, me, <a href="mailto:dariobogenreiter@rocketmail.com">Dario</a> 
 
-## Paper Citation
-<pre>
+## Link to the thesis
 
+https://repositum.tuwien.at/handle/20.500.12708/213422
+
+## Citation
+<pre>
+@MISC{Bogenreiter2025-fa,
+  title        = "Explainable prediction of user post popularity: An analysis
+                  of the One Million Posts corpus",
+  author       = "Bogenreiter, Dario",
+  journal      = "undefined [NLP]",
+  publisher    = "TU Wien",
+  year         =  2025,
+  primaryClass = "NLP"
+}
 </pre>
 
 ## License
