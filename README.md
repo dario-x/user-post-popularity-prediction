@@ -17,7 +17,24 @@
 
 
 ## Paper Abstract
-In the contemporary digital communication landscape, the influence wielded by news agencies, users, and even bots is undeniable. Their ability to shape public opinion, drive agendas, and potentially sway elections has sparked interest in understanding the factors governing post popularity. While previous research on post popularity prediction has predominantly focused on platforms like Twitter, this thesis ventures into uncharted territory by analyzing the One Million Posts Corpus, sourced from the Austrian daily newspaper 'Der Standard'. By delving into this dataset, which represents a unique demographic and content context, this study aims to unravel the details of post-engagement dynamics and showcase the underlying mechanisms that lead to popularity trends.
+Discussions in newspaper comment sections significantly influence public opinion. The
+methods used to sort and display user posts impact these discussions and can propagate
+certain opinions. However, sorting is often partially done by forum moderators, which
+is time-consuming and prone to bias. Machine learning models trained on user voting
+statistics offer a potential solution by automatically identifying engaging posts based on
+the documented opinion of the community. Prior research in this domain has primarily
+focused on improving predictive accuracy using deep learning approaches, often neglecting
+the critical aspect of explainability. This study explores a range of explainable methods
+to algorithmically identify valuable user posts in the One Million Posts corpus, sourced
+from Austrian newspaper forum DerStandard. It introduces explainable features and
+evaluates explainable and interpretable models, comparing their performance against
+deep learning approaches. Results show that interpretable models trained on explainable
+features outperform popular baselines in this domain. However, they fall short of the
+predictive power of deep learning approaches. Despite their lower predictive power, these
+interpretable approaches provide valuable insights into algorithmic decision-making and
+its potential pitfalls. In addition to the model results, this work presents a comprehensive
+analysis of the importance of the explainable features and proposes a novel labeling
+approach for engaging posts designed to accommodate both small and large datasets.
 
 ## About This Repo
 This repository holds the source code for the following 
